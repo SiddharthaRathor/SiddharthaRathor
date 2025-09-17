@@ -1,5 +1,9 @@
 ## Hi there 👋
+I'm Siddharth Rathor. Coding is an interesting extravaganza.
+Well versed in Python, Java, C/C++, HTML, CSS, JavaScript.
+Interested in working on AI-based projects currently.
 
+Everything is for the record.
 <!--
 **SiddharthaRathor/SiddharthaRathor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
