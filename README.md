@@ -4,6 +4,10 @@ Well versed in Python, Java, C/C++, HTML, CSS, JavaScript.
 Interested in working on AI-based projects currently.
 Engaged with learning fastApi, while trying to cram Flutter into
 Everything is for the record.
+
+### 🎶 Currently Listening  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sda1d0pt7g7cdsdh57ch58jxe&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **SiddharthaRathor/SiddharthaRathor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
